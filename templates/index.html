@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot Mapping & Control</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="robot-details">Robot: Moving</div>
+    </div>
+
+    <div class="container">
+        <div class="sidebar">
+            <div class="obstacle-list">
+                <h3>Obstacles</h3>
+                <button id="refresh-focus" style="display:none;">Refresh Focus</button>
+                <div id="obstacle-cards" class="scrollable-list"></div>
+            </div>
+        </div>
+
+        <div class="map-container">
+            <canvas id="map-canvas" width="800" height="600"></canvas>
+            <div class="controls">
+                <button id="move-forward">Move Forward</button>
+                <button id="move-backward">Move Backward</button>
+                <button id="move-left">Move Left</button>
+                <button id="move-right">Move Right</button>
+                <button id="select-destination">Select Destination</button>
+                <button id="move-to-destination">Move to Destination</button>
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

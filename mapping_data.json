@@ -1,0 +1,202 @@
+[
+    {
+        "image": "static/uploads/20250217142839.jpg",
+        "distance": "311.51",
+        "coordinates": {
+            "x": 94.39,
+            "y": 311.51
+        }
+    },
+    {
+        "image": "static/uploads/20250217142841.jpg",
+        "distance": "310.83",
+        "coordinates": {
+            "x": 97.16,
+            "y": 310.83
+        }
+    },
+    {
+        "image": "static/uploads/20250217142844.jpg",
+        "distance": "13.65",
+        "coordinates": {
+            "x": 99.85,
+            "y": 13.65
+        }
+    },
+    {
+        "image": "static/uploads/20250217142847.jpg",
+        "distance": "4.63",
+        "coordinates": {
+            "x": 2.52,
+            "y": 4.63
+        }
+    },
+    {
+        "image": "static/uploads/20250217142850.jpg",
+        "distance": "49.94",
+        "coordinates": {
+            "x": 5.23,
+            "y": 49.94
+        }
+    },
+    {
+        "image": "static/uploads/20250217223948.jpg",
+        "distance": "73.64",
+        "coordinates": {
+            "x": 63.24,
+            "y": 73.64
+        }
+    },
+    {
+        "image": "static/uploads/20250217223950.jpg",
+        "distance": "57.13",
+        "coordinates": {
+            "x": 65.98,
+            "y": 57.13
+        }
+    },
+    {
+        "image": "static/uploads/20250217223953.jpg",
+        "distance": "10.12",
+        "coordinates": {
+            "x": 68.68,
+            "y": 10.12
+        }
+    },
+    {
+        "image": "static/uploads/20250217223956.jpg",
+        "distance": "14.01",
+        "coordinates": {
+            "x": 71.38,
+            "y": 14.01
+        }
+    },
+    {
+        "image": "static/uploads/20250217223959.jpg",
+        "distance": "18.71",
+        "coordinates": {
+            "x": 74.08,
+            "y": 18.71
+        }
+    },
+    {
+        "image": "static/uploads/20250217224148.jpg",
+        "distance": "55.84",
+        "coordinates": {
+            "x": 83.24,
+            "y": 55.84
+        }
+    },
+    {
+        "image": "static/uploads/20250217224150.jpg",
+        "distance": "55.86",
+        "coordinates": {
+            "x": 86.01,
+            "y": 55.86
+        }
+    },
+    {
+        "image": "static/uploads/20250217224153.jpg",
+        "distance": "55.88",
+        "coordinates": {
+            "x": 88.71,
+            "y": 55.88
+        }
+    },
+    {
+        "image": "static/uploads/20250217224156.jpg",
+        "distance": "66.63",
+        "coordinates": {
+            "x": 91.42,
+            "y": 66.63
+        }
+    },
+    {
+        "image": "static/uploads/20250217224159.jpg",
+        "distance": "56.25",
+        "coordinates": {
+            "x": 94.15,
+            "y": 56.25
+        }
+    },
+    {
+        "image": "static/uploads/20250217224300.jpg",
+        "distance": "54.04",
+        "coordinates": {
+            "x": 55.83,
+            "y": 54.04
+        }
+    },
+    {
+        "image": "static/uploads/20250217224303.jpg",
+        "distance": "56.57",
+        "coordinates": {
+            "x": 58.6,
+            "y": 56.57
+        }
+    },
+    {
+        "image": "static/uploads/20250217224306.jpg",
+        "distance": "55.89",
+        "coordinates": {
+            "x": 61.3,
+            "y": 55.89
+        }
+    },
+    {
+        "image": "static/uploads/20250217224309.jpg",
+        "distance": "56.44",
+        "coordinates": {
+            "x": 64.03,
+            "y": 56.44
+        }
+    },
+    {
+        "image": "static/uploads/20250217224311.jpg",
+        "distance": "55.43",
+        "coordinates": {
+            "x": 66.77,
+            "y": 55.43
+        }
+    },
+    {
+        "image": "static/uploads/20250218001442.jpg",
+        "distance": "56.39",
+        "coordinates": {
+            "x": 57.29,
+            "y": 56.39
+        }
+    },
+    {
+        "image": "static/uploads/20250218001444.jpg",
+        "distance": "56.47",
+        "coordinates": {
+            "x": 60.03,
+            "y": 56.47
+        }
+    },
+    {
+        "image": "static/uploads/20250218001447.jpg",
+        "distance": "55.28",
+        "coordinates": {
+            "x": 62.71,
+            "y": 55.28
+        }
+    },
+    {
+        "image": "static/uploads/20250218001450.jpg",
+        "distance": "56.46",
+        "coordinates": {
+            "x": 65.38,
+            "y": 56.46
+        }
+    },
+    {
+        "image": "static/uploads/20250218001453.jpg",
+        "distance": "56.47",
+        "coordinates": {
+            "x": 68.08,
+            "y": 56.47
+        }
+    }
+]
